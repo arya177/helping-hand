@@ -1,7 +1,5 @@
 #  **HELPING-HAND**
-<br>
-PROJECT IS DEPLOYED ON HEROKU_APP =>
-https://vxok6p.deta.dev/
+
 
 <br>
 <br>
